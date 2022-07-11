@@ -1,4 +1,4 @@
-#Langkah Pengerjaan.
+# Langkah Pengerjaan.
 
 * Color Hex *
 - Background : #fcb017
